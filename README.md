@@ -19,28 +19,6 @@
 - [База данных](./database.md)
 - [Разработка](./development.md)
 
-## 🚀 Быстрый старт
-
-```bash
-# Клонировать репозиторий
-git clone <repo-url>
-
-# Установить зависимости
-npm install
-
-# Настроить переменные окружения
-cp .env.example .env
-# Заполнить токены ботов в .env
-
-# Инициализировать базу данных
-npx prisma db push
-node dist/scripts/seedItems.js
-
-# Собрать и запустить
-npm run build
-pm2 start ecosystem.config.cjs
-```
-
 ## 📁 Структура проекта
 
 ```
@@ -66,5 +44,6 @@ helloworld/
 
 - [Discord.js Docs](https://discord.js.org/)
 - [Prisma Docs](https://www.prisma.io/docs)
+
 
 
