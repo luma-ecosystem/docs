@@ -1,6 +1,6 @@
-# 🤖 Discord Multi-Bot Documentation
+# 💕 Luma Documentation
 
-Добро пожаловать в документацию проекта Discord Multi-Bot!
+Добро пожаловать в документацию проекта Luma!
 
 ## 📋 Содержание
 
@@ -66,4 +66,5 @@ helloworld/
 
 - [Discord.js Docs](https://discord.js.org/)
 - [Prisma Docs](https://www.prisma.io/docs)
+
 
